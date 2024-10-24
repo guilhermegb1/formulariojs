@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: grey;
+}
+.principal{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.tudo{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    height: 820px;
+    width: 900px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#nome{
+    margin-bottom: 50px;
+    margin-top: 80px;
+}
+
+#email{
+    margin-bottom: 50px;
+}
+
+#CPF{
+    margin-bottom: 50px;
+}
+
+#cep{
+    margin-bottom: 50px;
+}
+
+#idade{
+    margin-bottom: 50px;
+}
+
